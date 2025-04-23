@@ -222,7 +222,7 @@
     "coveralls": "^3.1.1",
     "cross-env": "^7.0.3",
     "errorstacks": "^2.4.1",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.3",
     "husky": "^9.1.7",
     "karma": "^6.4.4",
     "karma-chai-sinon": "^0.1.5",
